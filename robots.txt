@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eburain.github.io/sitemap.html.gz
+Sitemap: https://eburain.github.io/app/sitemap.html.gz
+Sitemap: https://eburain.github.io/assets/sitemap.html.gz
+Sitemap: https://eburain.github.io/css/sitemap.html.gz
+Sitemap: https://eburain.github.io/data/sitemap.html.gz
+Sitemap: https://eburain.github.io/includes/sitemap.html.gz
+Sitemap: https://eburain.github.io/item/sitemap.html.gz
+Sitemap: https://eburain.github.io/src/sitemap.html.gz
